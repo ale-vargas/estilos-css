@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela Alinhada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        table {
+            border-collapse: collapse; /* Remove o espaçamento entre as células */
+            width: 50%; /* Largura da tabela */
+            border: 2px solid blue; /* Borda azul da tabela */
+        }
+
+        th, td {
+            padding: 10px; /* Espaçamento interno */
+            font-weight: bold; /* Texto em negrito */
+        }
+
+        th {
+            text-align: left; /* Alinha o cabeçalho à esquerda */
+        }
+
+        td {
+            text-align: left; /* Alinha a primeira coluna à esquerda */
+        }
+
+        td:last-child {
+            text-align: right; /* Alinha a segunda coluna à direita */
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Coluna 1</th>
+                <th>Coluna 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dado 1</td>
+                <td>Dado A</td>
+            </tr>
+            <tr>
+                <td>Dado 2</td>
+                <td>Dado B</td>
+            </tr>
+            <tr>
+                <td>Dado 3</td>
+                <td>Dado C</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

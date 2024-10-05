@@ -1,0 +1,83 @@
+Lista de Exercícios de HTML com Estilos Inline
+
+Exercício 1
+Crie uma página index.html que contenha um cabeçalho <h1> centralizado com o texto
+"Página Inicial" e fundo azul.
+
+Exercício 2
+Crie uma página index.html que tenha um parágrafo <p> com o texto "Este é um parágrafo
+destacado." em vermelho e com a fonte em itálico.
+
+Exercício 3
+Crie uma página index.html que exiba uma imagem com 400px de largura e uma borda
+preta de 5px.
+
+Exercício 4
+Crie uma página index.html que contenha uma lista não ordenada com três itens:
+"Home", "Sobre", "Contato". O fundo da lista deve ser cinza e o texto branco.
+
+Exercício 5
+Crie uma página index.html com uma lista ordenada de três passos para aprender HTML.
+O texto deve estar em verde e cada item deve ter 20px de espaçamento inferior.
+
+Exercício 6
+Crie uma página index.html com um link para "https://www.exemplo.com" com o texto
+"Clique aqui". O link deve estar sublinhado e com a cor azul.
+
+Exercício 7
+Crie uma página index.html que contenha um botão de envio com fundo verde, texto
+branco e bordas arredondadas.
+
+Exercício 8
+Crie uma página index.html que exiba um título <h2> com o texto "Sobre Nós" em negrito
+e com um fundo amarelo.
+
+Exercício 9
+Crie uma página index.html que contenha uma tabela com duas colunas e três linhas. A
+tabela deve ter uma borda de 1px e o texto deve estar centralizado.
+
+Exercício 10
+Crie uma página index.html que exiba um parágrafo com a altura da linha de 1.5 e
+espaçamento entre letras de 3px.
+
+Exercício 11
+Crie uma página index.html que contenha uma imagem com 300px de altura e 200px de
+largura, além de uma borda sólida vermelha de 3px.
+
+Exercício 12
+Crie uma página index.html que exiba dois parágrafos. O primeiro deve estar em azul e o
+segundo em laranja.
+
+Exercício 13
+Crie uma página index.html que contenha um formulário com um campo de texto e um
+botão de envio. O campo de texto deve ter uma borda azul e o botão de envio deve ter
+fundo roxo e texto branco.
+
+Exercício 14
+Crie uma página index.html que contenha uma lista não ordenada com quatro itens. O
+fundo deve ser rosa e os itens devem ter texto em negrito.
+
+Exercício 15
+Crie uma página index.html que exiba uma tabela com três colunas e duas linhas. O
+cabeçalho da tabela deve ter um fundo verde e o texto branco.
+
+Exercício 16
+Crie uma página index.html que exiba um título <h3> com o texto "Contato". O título deve
+ter uma sombra de texto e estar alinhado à direita.
+
+Exercício 17
+Crie uma página index.html que exiba uma lista ordenada de cinco etapas para criar um
+site. O texto deve estar em vermelho e com espaçamento entre linhas de 1.8.
+
+Exercício 18
+Crie uma página index.html que contenha um parágrafo com o texto "Texto destacado". O
+parágrafo deve ter um fundo amarelo e o texto sublinhado.
+
+Exercício 19
+Crie uma página index.html que exiba um título <h1> com o texto "Bem-vindo!" em itálico
+e centralizado, com fundo cinza.
+
+Exercício 20
+Crie uma página index.html que contenha uma tabela com duas colunas e três linhas. A
+primeira coluna deve ter texto alinhado à esquerda e a segunda à direita. A borda da
+tabela deve ser azul e o texto deve estar em negrito
